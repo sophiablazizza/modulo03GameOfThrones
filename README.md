@@ -6,7 +6,7 @@
 
 <p>Neste projeto você e sua squad deverão montar um dashboard com base no conjunto de dados escolhidos por vocês, a fim de realizar uma apresentação com a exploração dos dados.</p>
 
-<h3> Como acessar os resultados </3>
+<h3> Como acessar os resultados </h3>
 
 <p>Você pode ter acesso à apresentação bem como aos resultados obtidos neste link.</p>
 
