@@ -8,7 +8,7 @@
 
 <h3> Como acessar os resultados </3>
 
-Você pode ter acesso à apresentação bem como aos resultados obtidos neste link.
+<p>Você pode ter acesso à apresentação bem como aos resultados obtidos neste link.</p>
 
 <h3> Exemplos de Dashboards </h3>
 
